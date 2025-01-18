@@ -1,4 +1,4 @@
 # Good-Git
 First Repo on git
 <br>
-Author: Usama Cheema
+Author: Usama Ilyas Cheema
